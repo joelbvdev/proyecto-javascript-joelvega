@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Volante Moza Vision GS",
+      "precio": 300,
+      "imagen": "../img/VGS-STEERING-WHEEL-1000x1000-1-removebg-preview.png"
+    },
+    {
+      "nombre": "Volante KS Steering Wheel",
+      "precio": 150,
+      "imagen": "../img/Volante-KS-0.png"
+    },
+    {
+      "nombre": "Volante ESX Steering Wheel",
+      "precio": 210,
+      "imagen": "../img/Volante-Standalone-ES-1.png"
+    }
+  ]
+  
